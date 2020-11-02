@@ -37,7 +37,7 @@ The worksheets for this workshop are *Jupyter Notebooks*. They can be rendered r
 
 Binder is a great open-source website created by some amazing science folks. It's important to realise that `mybinder.org` is supported by grants and donations. For that reason, it's good practice to not overload them.
 
-- [Launch this repository on MyBinder]()
+- [Launch this repository on MyBinder](https://mybinder.org/v2/gh/esdalmaijer/PyBrain_Python_Intro/main)
 
 As an aside, please avoid using Binder for any for-profit purposes. Financially benefiting from other people's unpaid labour is not cool. What are you, Elsevier?
 
@@ -45,7 +45,18 @@ As an aside, please avoid using Binder for any for-profit purposes. Financially 
 
 Google is getting in on the "running Python online" action, and has put their servers at the public's disposal (with some caveats to prevent naughty usage and/or excess traffic).
 
-- [Launch this repository on Google Colab]()
+- [Jupyter, variables, and functions](https://colab.research.google.com/github/esdalmaijer/PyBrain_Python_Intro/blob/main/01_jupyter_variables_functions/01_jupyter_variables_functions.ipynb)
+- [Writing functions and classes](https://colab.research.google.com/github/esdalmaijer/PyBrain_Python_Intro/blob/main/02_functions_classes/02_functions_classes.ipynb)
+- [NumPy and reading data](https://colab.research.google.com/github/esdalmaijer/PyBrain_Python_Intro/blob/main/03_numpy_reading_data/03_numpy_reading_data.ipynb)
+- [Data handling and visualisation](https://colab.research.google.com/github/esdalmaijer/PyBrain_Python_Intro/blob/main/04_data_visualisation/04_data_visualisation.ipynb)
+- [Implementing statistical tests](https://colab.research.google.com/github/esdalmaijer/PyBrain_Python_Intro/blob/main/05_statistical_tests/05_statistical_tests.ipynb)
+- [Model fitting through minimisation](https://colab.research.google.com/github/esdalmaijer/PyBrain_Python_Intro/blob/main/06_model_fitting/06_model_fitting.ipynb)
 
-Note that you need to be logged into a Google account to actually run any of the script snippets.
+Follow these steps to use the Jupyter Notebooks:
+
+1. Log into your Google account.
+2. Open a notebook.
+3. Download a handy [zipped archive](./files_for_google_colab/files_for_google_colab.zip) with all files required for the notebooks.
+4. Weep and despair the moment you need to actually access one of these files.
+5. Find some way to deal with Google's peculiar way of accessing files via Notebooks.
 
