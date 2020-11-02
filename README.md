@@ -56,7 +56,11 @@ Follow these steps to use the Jupyter Notebooks:
 
 1. Log into your Google account.
 2. Open a notebook.
-3. Download a handy [zipped archive](./files_for_google_colab/files_for_google_colab.zip) with all files required for the notebooks.
-4. Weep and despair the moment you need to actually access one of these files.
-5. Find some way to deal with Google's peculiar way of accessing files via Notebooks.
+3. There will come a time during which you will need to read files. Google Colab is a bit weird about that. The Notebooks will tell you how to deal with it, and you can pro-actively follow the rest of these steps.
+4. Open Google Drive.
+5. Create a folder `PyBrain` on your `My Drive` space.
+6. Download a handy [zipped archive](./files_for_google_colab/files_for_google_colab.zip) with all files required for the notebooks.
+7. Unzip the files to your local computer.
+8. Upload these files to the `PyBrain` folder on Google Drive.
+9. Done! You'll be informed about how to use these files in the relevant Notebooks.
 
